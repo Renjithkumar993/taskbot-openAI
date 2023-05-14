@@ -1,0 +1,85 @@
+<style>
+
+  .app-info {
+    background-color: #f8f9fa;
+    padding: 50px;
+    text-align: center;
+  }
+
+  .app-info h3 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+
+  .app-info p {
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+  }
+
+  .app-info .btn {
+    font-size: 1.2rem;
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+  }
+</style>
+
+
+
+
+<div class="container-fluid bg-light py-5">
+  <div class="row justify-content-center">
+    <div class="col-md-4 bg-white p-5 rounded">
+      <h2 class="text-center mb-4">Login</h2>
+      <form class="login-form">
+        <div class="form-group">
+          <label for="email-login">Email:</label>
+          <input class="form-control" type="text" id="email-login" />
+        </div>
+        <div class="form-group">
+          <label for="password-login">Password:</label>
+          <input class="form-control" type="password" id="password-login" />
+        </div>
+        <div class="form-group mt-4">
+          <button class="btn btn-danger btn-block" type="submit">Login</button>
+        </div>
+        <div class="text-center">
+          <p>Don't have an account? <a class="signup-link">Sign up</a></p>
+        </div>
+      </form>
+      <form class="signup-form d-none">
+        <div class="form-group">
+          <label for="name-signup">Username:</label>
+          <input class="form-control" type="text" id="name-signup" />
+        </div>
+        <div class="form-group">
+          <label for="email-signup">Email:</label>
+          <input class="form-control" type="text" id="email-signup" />
+        </div>
+        <div class="form-group">
+          <label for="password-signup">Password:</label>
+          <input class="form-control" type="password" id="password-signup" />
+        </div>
+        <div class="form-group mt-4">
+          <button class="btn btn-danger btn-block " type="submit">Sign up</button>
+        </div>
+        <div class="text-center">
+          <p>Already have an account? <a class="login-link">Login</a></p>
+        </div>
+      </form>
+    </div>
+  </div>
+
+
+<!-- Existing code -->
+
+<div class="app-info">
+  <h3>Discover the Power of Our App</h3>
+  <p>Experience seamless integration, advanced features, and unmatched performance.</p>
+  <a href="/learn" class="btn btn-primary">Learn More</a>
+</div>
+
+
+<script src="/js/loginsignup.js"></script>

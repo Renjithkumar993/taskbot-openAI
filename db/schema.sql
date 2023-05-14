@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS taskbot_db;
+
+CREATE DATABASE taskbot_db;

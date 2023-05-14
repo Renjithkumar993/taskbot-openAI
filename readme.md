@@ -21,7 +21,7 @@ Welcome to Chatbot-OpenAI, a powerful chatbot application powered by OpenAI's la
 * Open AI API
 
 ## Walkthrough Video
-To see the application in action , please watch the following walkthrough video:                                 Deployed Lnk : https://techblogclub.herokuapp.com/
+To see the application in action , please watch the following walkthrough video:                                 Deployed Lnk : https://taskbot-openai.herokuapp.com/
 
 
 

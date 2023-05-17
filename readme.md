@@ -1,4 +1,4 @@
-# Chatbot-OpenAI
+# taskbot-OpenAI
 Welcome to Chatbot-OpenAI, a powerful chatbot application powered by OpenAI's language model. This application allows you to add a chatbot feature to your projects, enabling users to interact with a virtual assistant for task management, recommendations, and more.
 
 ## Features

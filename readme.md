@@ -20,10 +20,11 @@ Welcome to Chatbot-OpenAI, a powerful chatbot application powered by OpenAI's la
 * bcrypt
 * Open AI API
 
-## Walkthrough Video
-To see the application in action , please watch the following walkthrough video:                                 Deployed Lnk : https://taskbot-openai.herokuapp.com/
+## Deployed application
+Deployed Lnk : https://taskbot-openai.herokuapp.com/
 
 
+![Capture1](https://github.com/Renjithkumar993/taskbot-openAI/assets/121647888/7929fa00-72b0-49b0-b6d3-6d3c9655c6f7)
 
 
 ## License
